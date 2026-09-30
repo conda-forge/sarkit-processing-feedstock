@@ -45,6 +45,7 @@ tests:
         - sarkit_processing.sicd_alias
         - sarkit_processing.sicd_area_plane
         - sarkit_processing.sicd_deskew
+        - sarkit_processing.sicd_help
         - sarkit_processing.sicd_pixel_type
         - sarkit_processing.sicd_scene_to_image
       pip_check: true
